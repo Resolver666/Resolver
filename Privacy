@@ -9,7 +9,7 @@ The developers of the Resolver app do not collect any data from users. The follo
 
 The data is encrypted according to the default behavior of your iOS device.
 
-If you perform a backup of your device, to local storage or via the cloud, this data may be retained in your backup. The developers of ReResolver do not have access to data stored within your backups.
+If you perform a backup of your device, to local storage or via the cloud, this data may be retained in your backup. The developers of Resolver do not have access to data stored within your backups.
 
 ## Data sharing
 
@@ -23,7 +23,6 @@ All data and user preferences that are stored locally on your device are deleted
 
 In order to delete a specific "Previous Choice" from your device, navigate to the "Previous Choices" list (Choose->+->Recent), and then swipe from right to left on the table row that contains the choice which you wish to delete.
 
-If you have any questions, concerns, or requests about your data, you may open an issue on the [GitHub issue tracker for this project](https://github.com/keithgee/Re-Resolver/issues).
 
 
 ## Updates to this Privacy Policy
